@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/blog/</id>
-  <title>Yulei Shen's CNS learning note - Blog</title>
+  <title>Yulei's CNS learning note - Blog</title>
   <subtitle><![CDATA[Learning to be a researcher. Also, writing some dairies here.]]></subtitle>
   <link href="/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
   <updated>2020-03-09T09:00:00+09:00</updated>
   <author>
-    <name>Yulei Shen's CNS learning note</name>
+    <name>Yulei's CNS learning note</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
