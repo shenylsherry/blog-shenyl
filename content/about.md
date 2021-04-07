@@ -1,13 +1,13 @@
 ---
-title: About
-date: 2019-07-09
+title: About Me
+date: 2021-04-08
 menu:
   main:
     weight: 999
 ---
 > Learning to be a researcher. Also, writing some dairies here.
 
-## How to use?
+## Who am I
 
 ### Managing content with [Forestry](https://forestry.io)
 
