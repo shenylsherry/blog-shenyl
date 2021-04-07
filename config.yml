@@ -7,7 +7,7 @@ keywords: [Cognitive Neuroscience]
 author: Yulei Shen
 date:
   format: j F Y
-  timezone: Asia/Japan
+  timezone: Asia/Tokyo
 theme:
   - hyde
   - netlify
