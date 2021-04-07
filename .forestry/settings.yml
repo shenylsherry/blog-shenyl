@@ -5,7 +5,7 @@ admin_path: "/static/forestry"
 webhook_url: 
 sections:
 - type: directory
-  path: content/Note For Research
+  path: content/Note-For-Research
   label: Posts
   create: documents
   match: "*"
