@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/tags/video-games/</id>
-  <title>The Butler - Video games</title>
-  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <title>Yulei Shen's CNS learning note - Video games</title>
+  <subtitle><![CDATA[Learning to be a researcher. Also, writing some dairies here.]]></subtitle>
   <link href="/tags/video-games/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/tags/video-games/" rel="alternate" type="text/html" />
-  <updated>2019-12-14T01:00:00+01:00</updated>
+  <updated>2019-12-14T09:00:00+09:00</updated>
   <author>
-    <name>The Butler</name>
+    <name>Yulei Shen's CNS learning note</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
@@ -23,7 +23,7 @@
 </blockquote>]]>
     </content>
     <link href="/blog/doom/" rel="alternate" type="text/html" />
-    <published>2019-12-14T01:00:00+01:00</published>
-    <updated>2019-12-14T01:00:00+01:00</updated>
+    <published>2019-12-14T09:00:00+09:00</published>
+    <updated>2019-12-14T09:00:00+09:00</updated>
   </entry>
 </feed>

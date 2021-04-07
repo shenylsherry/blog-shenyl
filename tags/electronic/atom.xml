@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/tags/electronic/</id>
-  <title>The Butler - Electronic</title>
-  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <title>Yulei Shen's CNS learning note - Electronic</title>
+  <subtitle><![CDATA[Learning to be a researcher. Also, writing some dairies here.]]></subtitle>
   <link href="/tags/electronic/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/tags/electronic/" rel="alternate" type="text/html" />
-  <updated>2020-02-05T15:43:00+01:00</updated>
+  <updated>2020-02-05T23:43:00+09:00</updated>
   <author>
-    <name>The Butler</name>
+    <name>Yulei Shen's CNS learning note</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
@@ -23,7 +23,7 @@
 </blockquote>]]>
     </content>
     <link href="/blog/daft-punk/" rel="alternate" type="text/html" />
-    <published>2020-02-05T15:43:00+01:00</published>
-    <updated>2020-02-05T15:43:00+01:00</updated>
+    <published>2020-02-05T23:43:00+09:00</published>
+    <updated>2020-02-05T23:43:00+09:00</updated>
   </entry>
 </feed>

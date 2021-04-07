@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/</id>
-  <title>The Butler</title>
-  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <title>Yulei Shen's CNS learning note</title>
+  <subtitle><![CDATA[Learning to be a researcher. Also, writing some dairies here.]]></subtitle>
   <link href="/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <updated>2020-03-09T09:00:00+09:00</updated>
   <author>
-    <name>The Butler</name>
+    <name>Yulei Shen's CNS learning note</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
@@ -23,8 +23,8 @@
 </blockquote>]]>
     </content>
     <link href="/blog/princess-mononoke/" rel="alternate" type="text/html" />
-    <published>2020-03-09T01:00:00+01:00</published>
-    <updated>2020-03-09T01:00:00+01:00</updated>
+    <published>2020-03-09T09:00:00+09:00</published>
+    <updated>2020-03-09T09:00:00+09:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/daft-punk/</id>
@@ -39,8 +39,8 @@
 </blockquote>]]>
     </content>
     <link href="/blog/daft-punk/" rel="alternate" type="text/html" />
-    <published>2020-02-05T15:43:00+01:00</published>
-    <updated>2020-02-05T15:43:00+01:00</updated>
+    <published>2020-02-05T23:43:00+09:00</published>
+    <updated>2020-02-05T23:43:00+09:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/doom/</id>
@@ -55,8 +55,8 @@
 </blockquote>]]>
     </content>
     <link href="/blog/doom/" rel="alternate" type="text/html" />
-    <published>2019-12-14T01:00:00+01:00</published>
-    <updated>2019-12-14T01:00:00+01:00</updated>
+    <published>2019-12-14T09:00:00+09:00</published>
+    <updated>2019-12-14T09:00:00+09:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/about/</id>
@@ -74,7 +74,7 @@
 <p><a href="https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a></p>]]>
     </content>
     <link href="/about/" rel="alternate" type="text/html" />
-    <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2019-07-09T02:00:00+02:00</updated>
+    <published>2019-07-09T09:00:00+09:00</published>
+    <updated>2019-07-09T09:00:00+09:00</updated>
   </entry>
 </feed>
