@@ -14,15 +14,6 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/Random Thought
-  label: Posts
-  create: documents
-  match: "*"
-  exclude: index.md
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
   path: content
   label: Pages
   create: all
