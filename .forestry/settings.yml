@@ -13,7 +13,7 @@ sections:
   new_doc_ext: md
   templates:
   - post
-  - type: directory
+- type: directory
   path: content/Random Thought
   label: Posts
   create: documents
