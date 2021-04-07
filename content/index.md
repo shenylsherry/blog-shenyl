@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Yulei Shen's CNS learning note
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Learning to be a researcher. Also, writing some dairies here.
